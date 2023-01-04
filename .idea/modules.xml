@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/odev_asansorsimulasyonu/odev_asansorsimulasyonu.iml" filepath="$PROJECT_DIR$/odev_asansorsimulasyonu/odev_asansorsimulasyonu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev_hayvanatbahcesi/odev_hayvanatbahcesi.iml" filepath="$PROJECT_DIR$/odev_hayvanatbahcesi/odev_hayvanatbahcesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev_onlinefilmsistemi/odev_onlinefilmsistemi.iml" filepath="$PROJECT_DIR$/odev_onlinefilmsistemi/odev_onlinefilmsistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev_ucusyonetimsistemi/odev_ucusyonetimsistemi.iml" filepath="$PROJECT_DIR$/odev_ucusyonetimsistemi/odev_ucusyonetimsistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev_universiteyonetimsistemi/odev_universiteyonetimsistemi.iml" filepath="$PROJECT_DIR$/odev_universiteyonetimsistemi/odev_universiteyonetimsistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patikaOOP.iml" filepath="$PROJECT_DIR$/.idea/patikaOOP.iml" />
+    </modules>
+  </component>
+</project>
